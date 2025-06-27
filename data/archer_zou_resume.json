@@ -1,0 +1,264 @@
+{
+  "basics": {
+    "name": "Archer Zou",
+    "label": "Developer and Engineer",
+    "picture": "https://example.com/photo.jpg",
+    "email": "archer.zou84@gmail.com",
+    "phone": "(64) 0225639394",
+    "website": "https://thomasedison.com",
+    "summary": "As a software engineer with over 14 years of experience in both synchronous and asynchronous channels, I have mastered a lot of intangible skills, including solving,\nmultitasking, adaptability, effective and transparent communication.",
+    "location": {
+      "address": "22 Aileen PI Upper Riccarton",
+      "postalCode": "8041",
+      "city": "Christchurch",
+      "countryCode": "New Zealand",
+      "region": "Canterbury"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Archer Zou",
+        "url": "https://www.linkedin.com/in/archer-zou/"
+      },
+      {
+        "network": "Github",
+        "username": "archerzou",
+        "url": "https://github.com/archerzou"
+      }
+    ],
+    "url": "https://www.archerzou.com"
+  },
+  "work": [
+    {
+      "company": "Edison Electric Light Company",
+      "position": "Senior Software Engineer",
+      "website": "https://edison.com",
+      "startDate": "2023-10-01",
+      "endDate": "2025-01-10",
+      "summary": "Engaged in the research and development of products such as oscilloscopes and signal generators, as well as functional testing and verification, and solving product technical problems encountered by global customers.",
+      "highlights": [
+        "Integrate Allure with Pytest and Jenkins to provide real-time feedback and detailed reporting on software tests (500 test cases).",
+        "Execute test cases and analyze results using Python to ensure devices, such as oscilloscopes and waveform generators, meet all functional and performance requirements.",
+        "Use GitLab's built-in CI/CD features to manage code, test cases, and documentation."
+      ],
+      "location": "Suzhou, China",
+      "description": "\n",
+      "name": "Rigol",
+      "url": "https://int.rigol.com"
+    },
+    {
+      "company": "General Electric",
+      "position": "Senior Full-Stack Engineer",
+      "website": "https://ge.com",
+      "startDate": "2023-05-01",
+      "endDate": "2023-10-01",
+      "summary": "Remote work for US-based luxury store Saks Fifth Avenue, acted as a full-stack technical expert on the DevOps team, and participated in the optimization\nof core product modules, assisted in solving various technical problems for the Saks OFF5TH website. Analyzed source code based on SEO and Marketing feedback and participated in frontend stability construction, including performance optimization, automation testing, and resolving compatibility issues.",
+      "highlights": [
+        "Resolved the issue of Klarna payment not being added to the data statistics and analysis.",
+        "Resolved classification issues from repeated product search types and categories as identified by users.",
+        "Performed web and mobile debugging using vanilla JavaScript to enhance development efficiency and code quality.",
+        "Enhanced search algorithms and recommendation systems, and collaborated with LogRocket to improve user behavior recording and analysis."
+      ],
+      "name": "Saks Fifth Avenue",
+      "url": "https://www.saksoff5th.com",
+      "location": "Suzhou, China",
+      "description": "\n\n"
+    },
+    {
+      "name": "Honeywell",
+      "position": "Advanced Senior Test Engineer",
+      "startDate": "2016-12-19",
+      "endDate": "2023-01-31",
+      "location": "Suzhou, China",
+      "url": "https://www.honeywell.com",
+      "summary": "Spearheaded the development and launch of Honeywell's product application websites and test software, and conducted functional testing using C# and Python.  Implemented product information retrieval and resolved user issues.",
+      "description": "",
+      "highlights": [
+        "Independently designed and developed test tools for Honeywell's products (scanners, mobility phones and printers) using C# and Python, while maintaining the old Intermec service tool in C.",
+        "Wrote Test Plans, defined Test Scenarios and Test cases for mechanical engineers, maintained test scripts and analyzed bugs, interacted with the development team, and tracked the bugs till closure.",
+        "Designed and developed smart tools for global QA engineers and technicians to boost the efficiency of product technical support."
+      ]
+    },
+    {
+      "name": "Jiangsu IOT Research and Development Center",
+      "position": "Senior Software Engineer",
+      "startDate": "2012-12-14",
+      "endDate": "2016-12-19",
+      "location": "Suzhou, China",
+      "url": "http://www.ciotc.org",
+      "summary": "Utilized NodeJS to develop a 3D interactive geospatial information web application based on Cesium and ThreeJS to ensure a consistent user experience on both desktop and mobile platforms.",
+      "description": "",
+      "highlights": [
+        "Employed C# and PostgreSQL to develop a desktop geospatial information big data platform to analyze and display scientific data based on geographical information."
+      ]
+    },
+    {
+      "name": "Nanjing Institute of Electronics and Technology",
+      "position": "Software Engineer",
+      "startDate": "2010.04",
+      "endDate": "2012-12",
+      "location": "Nanjing, China",
+      "url": "",
+      "summary": "Developed a distributed resource information-sharing platform using .NET and Web Services and enabled the transmission of server response\nXML/JSON data via RESTful API.",
+      "description": "",
+      "highlights": [
+        "Developed a distributed data fast transmission platform utilizing .NET and independently developed a cloud storage system (cloud drive) using Dokan. NET."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Southeast University",
+      "area": "Mechanical Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2002-09",
+      "endDate": "2006-07",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Nanjing Institute of Electronics and Technology",
+      "area": "Communication and Information Systems",
+      "studyType": "Master",
+      "startDate": "2007-09",
+      "endDate": "2010-04",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Canterbury",
+      "area": "Master of Applied Data Science",
+      "studyType": "Master",
+      "startDate": "2025-02",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "Master",
+      "keywords": [
+        "JavaScript",
+        "Python",
+        "C#",
+        "C"
+      ]
+    },
+    {
+      "name": "Libraries & Frameworks",
+      "level": "Master",
+      "keywords": [
+        "React",
+        "Angular",
+        "Node.js",
+        "Typescript",
+        "Next.js",
+        "Flask"
+      ]
+    },
+    {
+      "name": "Database & Tools",
+      "level": "Master",
+      "keywords": [
+        "MongoDB",
+        "PostgreSQL",
+        "Redis",
+        "AWS",
+        "Pytest",
+        "Docker"
+      ]
+    },
+    {
+      "name": "UI/UX Design",
+      "level": "Master",
+      "keywords": [
+        "Figma",
+        "Tailwind",
+        "Mui",
+        "Mantine"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "French",
+      "fluency": "beginner"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "Ecommerce Website",
+      "description": "",
+      "highlights": [
+        "A full-featured e-commerce website built with Next.js 15, TypeScript, PostgreSQL, and Prisma."
+      ],
+      "keywords": [],
+      "startDate": "2025-01",
+      "endDate": "2025-04",
+      "url": "https://archer-store.vercel.app",
+      "roles": []
+    },
+    {
+      "name": "Game Clips",
+      "description": "Video Sharing Website",
+      "highlights": [
+        "Developed full-stack commercial websites, achieved two-way binding using Angular, RxJS, TypeScript, and Tailwind, enabled end-to-end testing using Cypress.",
+        "Managed and released full-stack development code using Bitbucket."
+      ],
+      "keywords": [],
+      "startDate": "",
+      "endDate": "",
+      "url": "",
+      "roles": []
+    },
+    {
+      "name": "Honeywell Service Product Lightbox",
+      "description": "Honeywell's Internal Interactive Website",
+      "highlights": [
+        "Independently designed and developed Honeywell's internal technical support service resource guide website, and devised guided resource search services based on customer needs and feedback."
+      ],
+      "keywords": [],
+      "startDate": "2021-05",
+      "endDate": "2022-06",
+      "url": "https://archerzou.github.io/product-lightbox",
+      "roles": []
+    },
+    {
+      "name": "Dev Overflow",
+      "description": "Social Media Website",
+      "highlights": [
+        "Developed a social media platform using Nextjs, TypeScript, Prisma, Clerk, Shadcn, Zod, TinyMCE, and MongoDB.",
+        "Built-in badge system for earning badges and Global searching and filtering."
+      ],
+      "keywords": [],
+      "startDate": "2023.03",
+      "endDate": "2023.05",
+      "url": "https://archer-dev-flow.vercel.app",
+      "roles": []
+    },
+    {
+      "name": "DataViz",
+      "description": "A comprehensive data visualization platform built with Angular and SQL database technologies. The application provides interactive charts, dashboards and analytics tools for visualizing complex datasets with AI prompt and SQL sorcerer(anthropic).",
+      "highlights": [
+        "Interactive charts and graphs (Line, Bar, Pie, Scatter plots),  and multi-dataset support and data filtering.",
+        "RESTful API integration with the backend server, Automatic data synchronization and caching.  AI prompt for SQL query and AI generative charts. Interactive tooltips and data point details"
+      ],
+      "keywords": [],
+      "startDate": "2025-05",
+      "endDate": "2025-06",
+      "url": "https://archer-dataviz.vercel.app",
+      "roles": []
+    }
+  ]
+}
